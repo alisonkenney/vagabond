@@ -1,24 +1,15 @@
-# README
+# Vagabond app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A blogging app where you can share your stories of travel and adventure!
 
-Things you may want to cover:
+<img width="1263" alt="screen shot 2016-09-15 at 2 03 06 pm" src="https://cloud.githubusercontent.com/assets/19507239/18565545/5cef2a88-7b4d-11e6-97c1-6f268a7960e6.png">
 
-* Ruby version
+- Heroku hosted app - https://vagabond-blog.herokuapp.com/
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Technologies Used:
+  - Ruby on Rails
+  - Bootstrap CSS
+  - Active Record
+  - PostgreSQL
+  
+-The goal of this project was to work in a 4 person team and pair-program to build a full-stack app in Ruby on Rails, using Active Record to interact with a PostgreSQL database.
